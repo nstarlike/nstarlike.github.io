@@ -148,6 +148,10 @@
     opacity: 0.9;
 }
 
+.intro .intro-desc {
+    font-weight: 500;
+}
+
 /* About
  * =================================================================== */
 .section-image .about .lead {
